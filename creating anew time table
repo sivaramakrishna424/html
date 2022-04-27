@@ -1,0 +1,66 @@
+<html>
+<head>
+   <title>time table</title>
+</head>
+<body bgcolor="skyblue">
+<H1><FONT COLOR="DARKCYAN"><CENTER>COLLEGE TIME TABLE</FONT></H1>
+<table border="2" cellspacing="3" align="center">
+<tr>
+ <td align="center">
+ <td>8:00-9:00
+ <td>9:00-10:00
+ <td>10:00-11:00
+ <td>11:00-12:00
+ <td>12:00-1:00
+ <td>1:00-2:00
+ <td>2:00-3:00
+
+</tr>
+<tr>
+ <td align="center">MONDAY
+ <td align="center">Os<td align="center"><font color="blue">CS<br>
+ <td align="center"><font color="pink">E&HV<br>
+ <td rowspan="6"align="center">L<br>U<br>N<br>C<br>H
+ <td align="center"><font color="maroon">DBMS<br>
+ <td align="center"><font color="brown">WT<br>
+ <td align="center"><font color="brown">Sports<br>
+</tr>
+<tr>
+ <td align="center">TUESDAY
+ <td align="center"><font color="blue">E&HV<br>
+ <td align="center"><font color="red">DBMS<br>
+ <td align="center"><font color="pink">SE<br>
+ <td align="center"><font color="orange">WT<BR>
+ <td align="center"><font color="maroon">OS<br>
+ <td align="center"><font color="maroon">Library<br>
+</tr>
+<tr>
+ <td align="center">WEDNESDAY
+ <td align="center"><font color="pink">SE<br>
+ <td align="center"><font color="orange">OS<BR>
+ <td align="center"><font color="brown">CS<br>
+ <td colspan="3" align="center"><font color="green">WT</font> lab(c-3)
+</tr>
+<tr>
+ <td align="center">THURSDAY
+ <td colspan="3" align="center"><font color="green">CS</font> lab
+ <td align="center"><font color="blue">Soc<br>
+ <td align="center"><font color="blue">DBMS<br>
+ <td align="center"><font color="red">CS<br>
+</tr>
+<tr>
+ <td align="center">FRIDAY
+ <td align="center"><font color="orange">WT<BR>
+ <td align="center"><font color="maroon">SE<br>
+ <td align="center"><font color="blue">DBMS<br>
+ <td colspan="3" align="center"><font color="green">DBMS</font> lab(c-3)
+</tr>
+<tr>
+ <td align="center">SATURDAY
+ <td colspan="2" align="center">Soc lab
+ <td align="center"><font color="pink">CS<br>
+ <td align="center"><font color="brown">WT<br>
+ <td colspan="2" align="center">competative codding
+</tr>
+</body>
+</html>
